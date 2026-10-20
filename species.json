@@ -1115,7 +1115,11 @@
     "slot": "main",
     "status": "Invasora CEEEI",
     "group": "Arbust/matoll",
-    "source": "Visum de flora - Exòtiques.pdf"
+    "source": "Visum de flora - Exòtiques.pdf",
+    "images": [
+      "img/species_086.jpg",
+      "img/extra_86_atzavara_2_jpg.png"
+    ]
   },
   {
     "id": 87,
@@ -1141,7 +1145,11 @@
     "slot": "main",
     "status": "Invasora CEEEI",
     "group": "Herbàcia terrestre",
-    "source": "Visum de flora - Exòtiques.pdf"
+    "source": "Visum de flora - Exòtiques.pdf",
+    "images": [
+      "img/species_088.jpg",
+      "img/extra_88_balsam_ungladegat_2.png"
+    ]
   },
   {
     "id": 89,
@@ -1154,7 +1162,11 @@
     "slot": "main",
     "status": "Invasora CEEEI",
     "group": "Herbàcia terrestre",
-    "source": "Visum de flora - Exòtiques.pdf"
+    "source": "Visum de flora - Exòtiques.pdf",
+    "images": [
+      "img/species_089.jpg",
+      "img/extra_89_herbadelapampa_2.png"
+    ]
   },
   {
     "id": 90,
@@ -1167,7 +1179,11 @@
     "slot": "main",
     "status": "Invasora CEEEI",
     "group": "Arbust/matoll",
-    "source": "Visum de flora - Exòtiques.pdf"
+    "source": "Visum de flora - Exòtiques.pdf",
+    "images": [
+      "img/species_090.jpg",
+      "img/extra_90_clavellina_2.jpg"
+    ]
   },
   {
     "id": 91,
@@ -1180,7 +1196,11 @@
     "slot": "main",
     "status": "Invasora CEEEI",
     "group": "Arbust/matoll",
-    "source": "Visum de flora - Exòtiques.pdf"
+    "source": "Visum de flora - Exòtiques.pdf",
+    "images": [
+      "img/species_091.jpg",
+      "img/extra_91_figuerademoro_2.jpg"
+    ]
   },
   {
     "id": 92,
@@ -1193,7 +1213,11 @@
     "slot": "main",
     "status": "Invasora CEEEI",
     "group": "Herbàcia terrestre",
-    "source": "Visum de flora - Exòtiques.pdf"
+    "source": "Visum de flora - Exòtiques.pdf",
+    "images": [
+      "img/species_092.jpg",
+      "img/extra_92_senecidelcap_2.jpg"
+    ]
   },
   {
     "id": 93,
@@ -1219,7 +1243,11 @@
     "slot": "main",
     "status": "Exòtica no invasora",
     "group": "Conífera",
-    "source": "Visum de flora - Exòtiques.pdf"
+    "source": "Visum de flora - Exòtiques.pdf",
+    "images": [
+      "img/species_094.jpg",
+      "img/extra_94_pinsap_2.png"
+    ]
   },
   {
     "id": 95,
@@ -1232,7 +1260,11 @@
     "slot": "main",
     "status": "Exòtica no invasora",
     "group": "Conífera",
-    "source": "Visum de flora - Exòtiques.pdf"
+    "source": "Visum de flora - Exòtiques.pdf",
+    "images": [
+      "img/species_095.jpg",
+      "img/extra_95_avetroig_2.png"
+    ]
   },
   {
     "id": 96,
@@ -1245,7 +1277,11 @@
     "slot": "main",
     "status": "Exòtica no invasora",
     "group": "Conífera",
-    "source": "Visum de flora - Exòtiques.pdf"
+    "source": "Visum de flora - Exòtiques.pdf",
+    "images": [
+      "img/species_096.jpg",
+      "img/extra_96_piinsigne_2.jpg"
+    ]
   },
   {
     "id": 97,
@@ -1258,7 +1294,12 @@
     "slot": "main",
     "status": "Exòtica no invasora",
     "group": "Conífera",
-    "source": "Visum de flora - Exòtiques.pdf"
+    "source": "Visum de flora - Exòtiques.pdf",
+    "images": [
+      "img/species_097.jpg",
+      "img/extra_97_avetdouglas_3.jpg",
+      "img/extra_97_avetdouglas_2.jpg"
+    ]
   },
   {
     "id": 98,
@@ -1271,7 +1312,11 @@
     "slot": "main",
     "status": "Invasora CEEEI",
     "group": "Herbàcia aquàtica",
-    "source": "Visum de flora - Exòtiques.pdf"
+    "source": "Visum de flora - Exòtiques.pdf",
+    "images": [
+      "img/species_098.jpg",
+      "img/extra_98_alternaterad_aigua_2.jpg"
+    ]
   },
   {
     "id": 99,
@@ -1310,7 +1355,11 @@
     "slot": "main",
     "status": "Invasora CEEEI",
     "group": "Herbàcia aquàtica",
-    "source": "Visum de flora - Exòtiques.pdf"
+    "source": "Visum de flora - Exòtiques.pdf",
+    "images": [
+      "img/species_101.jpg",
+      "img/extra_101_jacintd_aigua_2.png"
+    ]
   },
   {
     "id": 102,
@@ -1323,7 +1372,11 @@
     "slot": "main",
     "status": "Invasora CEEEI",
     "group": "Herbàcia aquàtica",
-    "source": "Visum de flora - Exòtiques.pdf"
+    "source": "Visum de flora - Exòtiques.pdf",
+    "images": [
+      "img/species_102.jpg",
+      "img/extra_102_elodeadenutall_2.png"
+    ]
   },
   {
     "id": 103,
@@ -1349,7 +1402,11 @@
     "slot": "main",
     "status": "Invasora CEEEI",
     "group": "Arbre planifoli",
-    "source": "Visum de flora - Exòtiques.pdf"
+    "source": "Visum de flora - Exòtiques.pdf",
+    "images": [
+      "img/species_104.jpg",
+      "img/extra_104_mimosa_2.png"
+    ]
   },
   {
     "id": 105,
@@ -1362,7 +1419,12 @@
     "slot": "main",
     "status": "Invasora CEEEI",
     "group": "Arbre planifoli",
-    "source": "Visum de flora - Exòtiques.pdf"
+    "source": "Visum de flora - Exòtiques.pdf",
+    "images": [
+      "img/species_105.jpg",
+      "img/extra_105_ailant_2.png",
+      "img/extra_105_ailant_3.jpg"
+    ]
   },
   {
     "id": 106,
@@ -1388,7 +1450,11 @@
     "slot": "main",
     "status": "Exòtica no invasora",
     "group": "Arbre planifoli",
-    "source": "Visum de flora - Exòtiques.pdf"
+    "source": "Visum de flora - Exòtiques.pdf",
+    "images": [
+      "img/species_107.jpg",
+      "img/extra_107_falsaacacia_2.png"
+    ]
   },
   {
     "id": 108,
@@ -1401,6 +1467,10 @@
     "slot": "main",
     "status": "Exòtica no invasora",
     "group": "Arbre planifoli",
-    "source": "Visum de flora - Exòtiques.pdf"
+    "source": "Visum de flora - Exòtiques.pdf",
+    "images": [
+      "img/species_108.jpg",
+      "img/extra_108_omdesiberia_2.png"
+    ]
   }
 ]
