@@ -36,7 +36,11 @@
     "slot": "top",
     "status": "Autòctona",
     "group": "No especificat",
-    "source": "Visum de flora - Autòctona COLOR.pdf"
+    "source": "Visum de flora - Autòctona COLOR.pdf",
+    "images": [
+      "img/species_003.jpg",
+      "img/extra_003_boix_2.jpeg"
+    ]
   },
   {
     "id": 4,
@@ -101,7 +105,11 @@
     "slot": "bottom",
     "status": "Autòctona",
     "group": "No especificat",
-    "source": "Visum de flora - Autòctona COLOR.pdf"
+    "source": "Visum de flora - Autòctona COLOR.pdf",
+    "images": [
+      "img/species_008.jpg",
+      "img/extra_008_argelaga_2.jpeg"
+    ]
   },
   {
     "id": 9,
@@ -166,7 +174,11 @@
     "slot": "top",
     "status": "Autòctona",
     "group": "No especificat",
-    "source": "Visum de flora - Autòctona COLOR.pdf"
+    "source": "Visum de flora - Autòctona COLOR.pdf",
+    "images": [
+      "img/species_013.jpg",
+      "img/extra_013_ullastre_olivera_2.jpeg"
+    ]
   },
   {
     "id": 14,
@@ -218,7 +230,11 @@
     "slot": "top",
     "status": "Autòctona",
     "group": "No especificat",
-    "source": "Visum de flora - Autòctona COLOR.pdf"
+    "source": "Visum de flora - Autòctona COLOR.pdf",
+    "images": [
+      "img/species_017.jpg",
+      "img/extra_017_aladern_fals_2.jpeg"
+    ]
   },
   {
     "id": 18,
@@ -231,7 +247,11 @@
     "slot": "bottom",
     "status": "Autòctona",
     "group": "No especificat",
-    "source": "Visum de flora - Autòctona COLOR.pdf"
+    "source": "Visum de flora - Autòctona COLOR.pdf",
+    "images": [
+      "img/species_018.jpg",
+      "img/extra_018_llentiscle_2.jpeg"
+    ]
   },
   {
     "id": 19,
@@ -296,7 +316,11 @@
     "slot": "top",
     "status": "Autòctona",
     "group": "No especificat",
-    "source": "Visum de flora - Autòctona COLOR.pdf"
+    "source": "Visum de flora - Autòctona COLOR.pdf",
+    "images": [
+      "img/species_023.jpg",
+      "img/extra_023_romani_2.jpeg"
+    ]
   },
   {
     "id": 24,
@@ -374,7 +398,11 @@
     "slot": "top",
     "status": "Autòctona",
     "group": "No especificat",
-    "source": "Visum de flora - Autòctona COLOR.pdf"
+    "source": "Visum de flora - Autòctona COLOR.pdf",
+    "images": [
+      "img/species_029.jpg",
+      "img/extra_029_marfull_2.jpeg"
+    ]
   },
   {
     "id": 30,
@@ -387,7 +415,11 @@
     "slot": "bottom",
     "status": "Autòctona",
     "group": "No especificat",
-    "source": "Visum de flora - Autòctona COLOR.pdf"
+    "source": "Visum de flora - Autòctona COLOR.pdf",
+    "images": [
+      "img/species_030.jpg",
+      "img/extra_030_heura_2.jpeg"
+    ]
   },
   {
     "id": 31,
@@ -400,7 +432,11 @@
     "slot": "top",
     "status": "Autòctona",
     "group": "No especificat",
-    "source": "Visum de flora - Autòctona COLOR.pdf"
+    "source": "Visum de flora - Autòctona COLOR.pdf",
+    "images": [
+      "img/species_031.jpg",
+      "img/extra_031_aritjol_2.jpeg"
+    ]
   },
   {
     "id": 32,
@@ -504,7 +540,11 @@
     "slot": "top",
     "status": "Autòctona",
     "group": "No especificat",
-    "source": "Visum de flora - Autòctona COLOR.pdf"
+    "source": "Visum de flora - Autòctona COLOR.pdf",
+    "images": [
+      "img/species_039.jpg",
+      "img/extra_039_teix_2.jpeg"
+    ]
   },
   {
     "id": 40,
@@ -530,7 +570,11 @@
     "slot": "top",
     "status": "Autòctona",
     "group": "No especificat",
-    "source": "Visum de flora - Autòctona COLOR.pdf"
+    "source": "Visum de flora - Autòctona COLOR.pdf",
+    "images": [
+      "img/species_041.jpg",
+      "img/extra_041_alga_dels_vidriers_2.jpeg"
+    ]
   },
   {
     "id": 42,
@@ -660,7 +704,11 @@
     "slot": "top",
     "status": "Autòctona",
     "group": "No especificat",
-    "source": "Visum de flora - Autòctona COLOR.pdf"
+    "source": "Visum de flora - Autòctona COLOR.pdf",
+    "images": [
+      "img/species_051.jpg",
+      "img/extra_051_blada_2.jpeg"
+    ]
   },
   {
     "id": 52,
@@ -673,7 +721,11 @@
     "slot": "bottom",
     "status": "Autòctona",
     "group": "No especificat",
-    "source": "Visum de flora - Autòctona COLOR.pdf"
+    "source": "Visum de flora - Autòctona COLOR.pdf",
+    "images": [
+      "img/species_052.jpg",
+      "img/extra_052_vern_2.jpeg"
+    ]
   },
   {
     "id": 53,
@@ -686,7 +738,11 @@
     "slot": "top",
     "status": "Autòctona",
     "group": "No especificat",
-    "source": "Visum de flora - Autòctona COLOR.pdf"
+    "source": "Visum de flora - Autòctona COLOR.pdf",
+    "images": [
+      "img/species_053.jpg",
+      "img/extra_053_bedoll_2.jpeg"
+    ]
   },
   {
     "id": 54,
@@ -712,7 +768,11 @@
     "slot": "top",
     "status": "Autòctona",
     "group": "No especificat",
-    "source": "Visum de flora - Autòctona COLOR.pdf"
+    "source": "Visum de flora - Autòctona COLOR.pdf",
+    "images": [
+      "img/species_055.jpg",
+      "img/extra_055_lledoner_2.jpeg"
+    ]
   },
   {
     "id": 56,
@@ -751,7 +811,11 @@
     "slot": "bottom",
     "status": "Autòctona",
     "group": "No especificat",
-    "source": "Visum de flora - Autòctona COLOR.pdf"
+    "source": "Visum de flora - Autòctona COLOR.pdf",
+    "images": [
+      "img/species_058.jpg",
+      "img/extra_058_freixe_fulla_gran_2.jpeg"
+    ]
   },
   {
     "id": 59,
@@ -764,7 +828,12 @@
     "slot": "top",
     "status": "Autòctona",
     "group": "No especificat",
-    "source": "Visum de flora - Autòctona COLOR.pdf"
+    "source": "Visum de flora - Autòctona COLOR.pdf",
+    "images": [
+      "img/species_059.jpg",
+      "img/extra_059_boix_grevol_2.jpeg",
+      "img/extra_059_boix_grevol_3.jpeg"
+    ]
   },
   {
     "id": 60,
@@ -881,7 +950,11 @@
     "slot": "bottom",
     "status": "Autòctona",
     "group": "No especificat",
-    "source": "Visum de flora - Autòctona COLOR.pdf"
+    "source": "Visum de flora - Autòctona COLOR.pdf",
+    "images": [
+      "img/species_068.jpg",
+      "img/extra_068_alzina_2.jpeg"
+    ]
   },
   {
     "id": 69,
@@ -1024,7 +1097,11 @@
     "slot": "top",
     "status": "Autòctona",
     "group": "No especificat",
-    "source": "Visum de flora - Autòctona COLOR.pdf"
+    "source": "Visum de flora - Autòctona COLOR.pdf",
+    "images": [
+      "img/species_079.jpg",
+      "img/extra_079_om_2.jpeg"
+    ]
   },
   {
     "id": 80,

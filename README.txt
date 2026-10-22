@@ -1,16 +1,17 @@
-FLORA VISUAL — APP WEB INSTAL·LABLE
+FLORA VISUAL — ACTUALITZACIÓ COMPLETA
 
-Inclou 85 fitxes/entrades extretes del PDF, fotografies retallades de les fitxes, quatre respostes per pregunta, correcció immediata, nom científic, percentatge d’encerts, seguiment d’errors, mode de repàs i suport offline després de la primera càrrega.
+Aquest paquet manté l'estructura de Flora Visual i incorpora 20 fotografies addicionals a les fitxes corresponents.
+Les fotografies s'han afegit al camp d'imatges de les espècies perquè apareguin al carrusel i puguin sortir als tests aleatoris.
 
-INSTAL·LACIÓ A L’iPHONE: cal publicar aquesta carpeta en una adreça HTTPS; no n’hi ha prou amb obrir index.html des de Fitxers.
+ACTUALITZACIÓ DEL REPOSITORI EXISTENT DE GITHUB PAGES
+1. Fes una còpia de seguretat del repositori actual abans de substituir fitxers.
+2. Descomprimeix aquest ZIP a l'ordinador.
+3. Puja els fitxers i carpetes que hi ha dins del ZIP al mateix repositori i a la mateixa ubicació on es troba ara index.html.
+4. Accepta substituir els fitxers existents quan GitHub ho demani. No canviïs el nom del repositori ni la configuració de GitHub Pages.
+5. Assegura't que es publiquin index.html, species.json, sw.js, manifest.webmanifest, icons/ i img/.
+6. Espera que GitHub Pages acabi la publicació i obre l'enllaç habitual.
 
-Mètode senzill amb GitHub Pages:
-1. Descomprimeix el ZIP en un ordinador.
-2. Crea un repositori a GitHub i puja-hi tots els fitxers i carpetes.
-3. A Settings > Pages, activa la publicació des de la branca principal (root).
-4. Obre l’adreça HTTPS generada a Safari a l’iPhone.
-5. Prem Compartir > Afegir a la pantalla d’inici.
+MEMÒRIA CAU / APP INSTAL·LADA
+S'ha incrementat la versió de memòria cau del Service Worker a flora-visual-v5 perquè el navegador pugui descarregar la nova llista d'imatges. Si la icona instal·lada continua mostrant fitxers antics, obre primer l'enllaç habitual al navegador amb connexió a internet i torna a obrir l'app. No esborris les dades del navegador si vols conservar el progrés local.
 
-Les estadístiques es guarden al navegador/dispositiu i no es transmeten a cap servidor. Si esborres les dades del navegador, el seguiment es pot perdre.
-
-Font: “Visum de flora - Autòctona COLOR.pdf”. Els noms segueixen el document d’origen; la fitxa composta “Zostera marina i algueró” es manté com una entrada perquè així apareix al PDF.
+Les estadístiques i els errors de pràctica s'emmagatzemen localment al dispositiu/navegador. És recomanable conservar una còpia de seguretat abans d'esborrar dades locals.
