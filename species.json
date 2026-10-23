@@ -176,8 +176,7 @@
     "group": "No especificat",
     "source": "Visum de flora - Autòctona COLOR.pdf",
     "images": [
-      "img/species_013.jpg",
-      "img/extra_013_ullastre_olivera_2.jpeg"
+      "img/species_013.jpg"
     ]
   },
   {
@@ -846,7 +845,10 @@
     "slot": "bottom",
     "status": "Autòctona",
     "group": "No especificat",
-    "source": "Visum de flora - Autòctona COLOR.pdf"
+    "source": "Visum de flora - Autòctona COLOR.pdf",
+    "images": [
+      "img/extra_060_olivera_2.jpeg"
+    ]
   },
   {
     "id": 61,
