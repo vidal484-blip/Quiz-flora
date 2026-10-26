@@ -190,7 +190,12 @@
     "slot": "bottom",
     "status": "Autòctona",
     "group": "No especificat",
-    "source": "Visum de flora - Autòctona COLOR.pdf"
+    "source": "Visum de flora - Autòctona COLOR.pdf",
+    "images": [
+      "img/species_014.jpg",
+      "img/extra_014_ruac_2.jpg",
+      "img/extra_014_ruac_3.jpg"
+    ]
   },
   {
     "id": 15,
@@ -216,7 +221,11 @@
     "slot": "bottom",
     "status": "Autòctona",
     "group": "No especificat",
-    "source": "Visum de flora - Autòctona COLOR.pdf"
+    "source": "Visum de flora - Autòctona COLOR.pdf",
+    "images": [
+      "img/species_016.jpg",
+      "img/extra_016_aladern_de_fulla_estreta_2.jpg"
+    ]
   },
   {
     "id": 17,
@@ -232,7 +241,8 @@
     "source": "Visum de flora - Autòctona COLOR.pdf",
     "images": [
       "img/species_017.jpg",
-      "img/extra_017_aladern_fals_2.jpeg"
+      "img/extra_017_aladern_fals_2.jpeg",
+      "img/extra_017_aladern_fals_3.jpg"
     ]
   },
   {
@@ -276,7 +286,11 @@
     "slot": "bottom",
     "status": "Autòctona",
     "group": "No especificat",
-    "source": "Visum de flora - Autòctona COLOR.pdf"
+    "source": "Visum de flora - Autòctona COLOR.pdf",
+    "images": [
+      "img/species_020.jpg",
+      "img/extra_020_garric_2.jpg"
+    ]
   },
   {
     "id": 21,
@@ -289,7 +303,12 @@
     "slot": "top",
     "status": "Autòctona",
     "group": "No especificat",
-    "source": "Visum de flora - Autòctona COLOR.pdf"
+    "source": "Visum de flora - Autòctona COLOR.pdf",
+    "images": [
+      "img/species_021.jpg",
+      "img/extra_021_aladern_2.jpg",
+      "img/extra_021_aladern_3.jpg"
+    ]
   },
   {
     "id": 22,
@@ -677,7 +696,12 @@
     "slot": "top",
     "status": "Autòctona",
     "group": "No especificat",
-    "source": "Visum de flora - Autòctona COLOR.pdf"
+    "source": "Visum de flora - Autòctona COLOR.pdf",
+    "images": [
+      "img/species_049.jpg",
+      "img/extra_049_auro_blanc_2.jpg",
+      "img/extra_049_auro_blanc_3.jpg"
+    ]
   },
   {
     "id": 50,
@@ -690,7 +714,11 @@
     "slot": "bottom",
     "status": "Autòctona",
     "group": "No especificat",
-    "source": "Visum de flora - Autòctona COLOR.pdf"
+    "source": "Visum de flora - Autòctona COLOR.pdf",
+    "images": [
+      "img/species_050.jpg",
+      "img/extra_050_auro_negre_2.jpg"
+    ]
   },
   {
     "id": 51,
@@ -784,7 +812,11 @@
     "slot": "bottom",
     "status": "Autòctona",
     "group": "No especificat",
-    "source": "Visum de flora - Autòctona COLOR.pdf"
+    "source": "Visum de flora - Autòctona COLOR.pdf",
+    "images": [
+      "img/species_056.jpg",
+      "img/extra_056_faig_2.jpg"
+    ]
   },
   {
     "id": 57,
@@ -797,7 +829,11 @@
     "slot": "top",
     "status": "Autòctona",
     "group": "No especificat",
-    "source": "Visum de flora - Autòctona COLOR.pdf"
+    "source": "Visum de flora - Autòctona COLOR.pdf",
+    "images": [
+      "img/species_057.jpg",
+      "img/extra_057_freixe_de_fulla_petita_2.jpg"
+    ]
   },
   {
     "id": 58,
