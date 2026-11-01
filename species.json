@@ -1587,5 +1587,24 @@
       "img/species_108.jpg",
       "img/extra_108_omdesiberia_2.png"
     ]
+  },
+  {
+    "id": 109,
+    "name": "Arboç",
+    "scientific": "Arbutus unedo",
+    "label": "Arboç (Arbutus unedo)",
+    "description": "Arbust d’escorça bruna que es desprèn en petites làmines. Creix en màquies i alzinars poc densos.",
+    "image": "img/species_109.jpg",
+    "page": 10,
+    "slot": "main",
+    "status": "Autòctona",
+    "group": "Arbust planifoli",
+    "source": "Fitxa descriptiva de flora: Arboç",
+    "images": [
+      "img/species_109.jpg",
+      "img/extra_109_arboç_fulles.jpg",
+      "img/extra_109_arboç_fruits.jpg",
+      "img/extra_109_arboç_flors.jpg"
+    ]
   }
 ]
