@@ -39,7 +39,8 @@
     "source": "Visum de flora - Autòctona COLOR.pdf",
     "images": [
       "img/species_003.jpg",
-      "img/extra_003_boix_2.jpeg"
+      "img/extra_003_boix_2.jpeg",
+      "img/extra_003_boix_boix_3.jpg"
     ]
   },
   {
@@ -53,7 +54,11 @@
     "slot": "bottom",
     "status": "Autòctona",
     "group": "No especificat",
-    "source": "Visum de flora - Autòctona COLOR.pdf"
+    "source": "Visum de flora - Autòctona COLOR.pdf",
+    "images": [
+      "img/species_004.jpg",
+      "img/extra_004_estepablanca_estepablanca_2.jpg"
+    ]
   },
   {
     "id": 5,
@@ -66,7 +71,13 @@
     "slot": "top",
     "status": "Autòctona",
     "group": "No especificat",
-    "source": "Visum de flora - Autòctona COLOR.pdf"
+    "source": "Visum de flora - Autòctona COLOR.pdf",
+    "images": [
+      "img/species_005.jpg",
+      "img/extra_005_matapoll_matapoll_2.jpg",
+      "img/extra_005_matapoll_matapoll_3.jpg",
+      "img/extra_005_matapoll_matapoll_4.jpg"
+    ]
   },
   {
     "id": 6,
@@ -79,7 +90,13 @@
     "slot": "bottom",
     "status": "Autòctona",
     "group": "No especificat",
-    "source": "Visum de flora - Autòctona COLOR.pdf"
+    "source": "Visum de flora - Autòctona COLOR.pdf",
+    "images": [
+      "img/species_006.jpg",
+      "img/extra_006_brucboal_brucboal_2.jpeg",
+      "img/extra_006_brucboal_brucboal_3.jpg",
+      "img/extra_006_brucboal_brucboal_4.jpg"
+    ]
   },
   {
     "id": 7,
@@ -92,7 +109,12 @@
     "slot": "top",
     "status": "Autòctona",
     "group": "No especificat",
-    "source": "Visum de flora - Autòctona COLOR.pdf"
+    "source": "Visum de flora - Autòctona COLOR.pdf",
+    "images": [
+      "img/species_007.jpg",
+      "img/extra_007_brucdescombres_brucd'escombres_2.jpg",
+      "img/extra_007_brucdescombres_brucd'escombres_3.jpg"
+    ]
   },
   {
     "id": 8,
@@ -108,7 +130,9 @@
     "source": "Visum de flora - Autòctona COLOR.pdf",
     "images": [
       "img/species_008.jpg",
-      "img/extra_008_argelaga_2.jpeg"
+      "img/extra_008_argelaga_2.jpeg",
+      "img/extra_008_argelaga_argelaga_3.jpg",
+      "img/extra_008_argelaga_argelaga_4.jpg"
     ]
   },
   {
@@ -122,7 +146,11 @@
     "slot": "top",
     "status": "Autòctona",
     "group": "No especificat",
-    "source": "Visum de flora - Autòctona COLOR.pdf"
+    "source": "Visum de flora - Autòctona COLOR.pdf",
+    "images": [
+      "img/species_009.jpg",
+      "img/extra_009_esteperola_esteperola_2.jpg"
+    ]
   },
   {
     "id": 10,
@@ -135,7 +163,12 @@
     "slot": "bottom",
     "status": "Autòctona",
     "group": "No especificat",
-    "source": "Visum de flora - Autòctona COLOR.pdf"
+    "source": "Visum de flora - Autòctona COLOR.pdf",
+    "images": [
+      "img/species_010.jpg",
+      "img/extra_010_ginebro_ginebró_2.jpg",
+      "img/extra_010_ginebro_ginebró_3.jpg"
+    ]
   },
   {
     "id": 11,
@@ -148,7 +181,12 @@
     "slot": "top",
     "status": "Autòctona",
     "group": "No especificat",
-    "source": "Visum de flora - Autòctona COLOR.pdf"
+    "source": "Visum de flora - Autòctona COLOR.pdf",
+    "images": [
+      "img/species_011.jpg",
+      "img/extra_011_cadec_càdec_2.jpg",
+      "img/extra_011_cadec_càdec_3.jpg"
+    ]
   },
   {
     "id": 12,
@@ -161,7 +199,11 @@
     "slot": "bottom",
     "status": "Autòctona",
     "group": "No especificat",
-    "source": "Visum de flora - Autòctona COLOR.pdf"
+    "source": "Visum de flora - Autòctona COLOR.pdf",
+    "images": [
+      "img/species_012.jpg",
+      "img/extra_012_espigol_espígol_2.jpg"
+    ]
   },
   {
     "id": 13,
@@ -208,7 +250,13 @@
     "slot": "top",
     "status": "Autòctona",
     "group": "No especificat",
-    "source": "Visum de flora - Autòctona COLOR.pdf"
+    "source": "Visum de flora - Autòctona COLOR.pdf",
+    "images": [
+      "img/species_015.jpg",
+      "img/extra_015_ginesto_ginestó_2.jpg",
+      "img/extra_015_ginesto_ginestó_3.jpg",
+      "img/extra_015_ginesto_ginestó_4.jpg"
+    ]
   },
   {
     "id": 16,
@@ -224,7 +272,8 @@
     "source": "Visum de flora - Autòctona COLOR.pdf",
     "images": [
       "img/species_016.jpg",
-      "img/extra_016_aladern_de_fulla_estreta_2.jpg"
+      "img/extra_016_aladern_de_fulla_estreta_2.jpg",
+      "img/extra_016_aladerndefullaestreta_aladerndefullaestreta_3.jpeg"
     ]
   },
   {
@@ -259,7 +308,10 @@
     "source": "Visum de flora - Autòctona COLOR.pdf",
     "images": [
       "img/species_018.jpg",
-      "img/extra_018_llentiscle_2.jpeg"
+      "img/extra_018_llentiscle_2.jpeg",
+      "img/extra_018_llentiscle_llentiscle_3.jpg",
+      "img/extra_018_llentiscle_llentiscle_4.jpg",
+      "img/extra_018_llentiscle_llentiscle_5.jpg"
     ]
   },
   {
@@ -273,7 +325,14 @@
     "slot": "top",
     "status": "Autòctona",
     "group": "No especificat",
-    "source": "Visum de flora - Autòctona COLOR.pdf"
+    "source": "Visum de flora - Autòctona COLOR.pdf",
+    "images": [
+      "img/species_019.jpg",
+      "img/extra_019_noguerola_noguerola_2.jpg",
+      "img/extra_019_noguerola_noguerola_3.jpg",
+      "img/extra_019_noguerola_noguerola_4.jpg",
+      "img/extra_019_noguerola_noguerola_5.jpg"
+    ]
   },
   {
     "id": 20,
@@ -321,7 +380,12 @@
     "slot": "bottom",
     "status": "Autòctona",
     "group": "No especificat",
-    "source": "Visum de flora - Autòctona COLOR.pdf"
+    "source": "Visum de flora - Autòctona COLOR.pdf",
+    "images": [
+      "img/species_022.jpg",
+      "img/extra_022_arcot_arçot_2.jpg",
+      "img/extra_022_arcot_arçot_3.jpg"
+    ]
   },
   {
     "id": 23,
@@ -351,7 +415,11 @@
     "slot": "bottom",
     "status": "Autòctona",
     "group": "No especificat",
-    "source": "Visum de flora - Autòctona COLOR.pdf"
+    "source": "Visum de flora - Autòctona COLOR.pdf",
+    "images": [
+      "img/species_024.jpg",
+      "img/extra_024_rogetaroja_rogetaroja_2.jpg"
+    ]
   },
   {
     "id": 25,
@@ -403,7 +471,11 @@
     "slot": "bottom",
     "status": "Autòctona",
     "group": "No especificat",
-    "source": "Visum de flora - Autòctona COLOR.pdf"
+    "source": "Visum de flora - Autòctona COLOR.pdf",
+    "images": [
+      "img/species_028.jpg",
+      "img/extra_028_gatosa_gatosa_2.jpeg"
+    ]
   },
   {
     "id": 29,
@@ -419,7 +491,8 @@
     "source": "Visum de flora - Autòctona COLOR.pdf",
     "images": [
       "img/species_029.jpg",
-      "img/extra_029_marfull_2.jpeg"
+      "img/extra_029_marfull_2.jpeg",
+      "img/extra_029_marfull_marfull_3.jpeg"
     ]
   },
   {
@@ -453,7 +526,8 @@
     "source": "Visum de flora - Autòctona COLOR.pdf",
     "images": [
       "img/species_031.jpg",
-      "img/extra_031_aritjol_2.jpeg"
+      "img/extra_031_aritjol_2.jpeg",
+      "img/extra_031_aritjol_arítjol_3.jpeg"
     ]
   },
   {
@@ -605,7 +679,12 @@
     "slot": "bottom",
     "status": "Autòctona",
     "group": "No especificat",
-    "source": "Visum de flora - Autòctona COLOR.pdf"
+    "source": "Visum de flora - Autòctona COLOR.pdf",
+    "images": [
+      "img/species_042.jpg",
+      "img/extra_042_zosteramarinaialguero_zosteramarinaialgueró_2.jpg",
+      "img/extra_042_zosteramarinaialguero_zosteramarinaialgueró_3.jpg"
+    ]
   },
   {
     "id": 43,
@@ -782,7 +861,11 @@
     "slot": "bottom",
     "status": "Autòctona",
     "group": "No especificat",
-    "source": "Visum de flora - Autòctona COLOR.pdf"
+    "source": "Visum de flora - Autòctona COLOR.pdf",
+    "images": [
+      "img/species_054.jpg",
+      "img/extra_054_castanyer_castanyer_2.jpeg"
+    ]
   },
   {
     "id": 55,
@@ -883,7 +966,9 @@
     "group": "No especificat",
     "source": "Visum de flora - Autòctona COLOR.pdf",
     "images": [
-      "img/extra_060_olivera_2.jpeg"
+      "img/extra_060_olivera_2.jpeg",
+      "img/extra_060_ullastreolivera_ullastre,olivera_2.jpg",
+      "img/extra_060_ullastreolivera_ullastre,olivera_3.jpg"
     ]
   },
   {
@@ -910,7 +995,11 @@
     "slot": "bottom",
     "status": "Autòctona",
     "group": "No especificat",
-    "source": "Visum de flora - Autòctona COLOR.pdf"
+    "source": "Visum de flora - Autòctona COLOR.pdf",
+    "images": [
+      "img/species_062.jpg",
+      "img/extra_062_alber_àlber_2.jpeg"
+    ]
   },
   {
     "id": 63,
@@ -962,7 +1051,11 @@
     "slot": "bottom",
     "status": "Autòctona",
     "group": "No especificat",
-    "source": "Visum de flora - Autòctona COLOR.pdf"
+    "source": "Visum de flora - Autòctona COLOR.pdf",
+    "images": [
+      "img/species_066.jpg",
+      "img/extra_066_rouredefullapetita_rouredefullapetita_2.jpeg"
+    ]
   },
   {
     "id": 67,
@@ -1018,7 +1111,11 @@
     "slot": "bottom",
     "status": "Autòctona",
     "group": "No especificat",
-    "source": "Visum de flora - Autòctona COLOR.pdf"
+    "source": "Visum de flora - Autòctona COLOR.pdf",
+    "images": [
+      "img/species_070.jpg",
+      "img/extra_070_alzinasurera_alzina_surera_2.jpeg"
+    ]
   },
   {
     "id": 71,
@@ -1031,7 +1128,11 @@
     "slot": "top",
     "status": "Autòctona",
     "group": "No especificat",
-    "source": "Visum de flora - Autòctona COLOR.pdf"
+    "source": "Visum de flora - Autòctona COLOR.pdf",
+    "images": [
+      "img/species_071.jpg",
+      "img/extra_071_salze_salze_2.jpg"
+    ]
   },
   {
     "id": 72,
@@ -1044,7 +1145,11 @@
     "slot": "bottom",
     "status": "Autòctona",
     "group": "No especificat",
-    "source": "Visum de flora - Autòctona COLOR.pdf"
+    "source": "Visum de flora - Autòctona COLOR.pdf",
+    "images": [
+      "img/species_072.jpg",
+      "img/extra_072_moixera_moixera_2.jpg"
+    ]
   },
   {
     "id": 73,
@@ -1070,7 +1175,11 @@
     "slot": "bottom",
     "status": "Autòctona",
     "group": "No especificat",
-    "source": "Visum de flora - Autòctona COLOR.pdf"
+    "source": "Visum de flora - Autòctona COLOR.pdf",
+    "images": [
+      "img/species_074.jpg",
+      "img/extra_074_servera_servera_2.jpg"
+    ]
   },
   {
     "id": 75,
@@ -1247,7 +1356,12 @@
     "slot": "main",
     "status": "Invasora CEEEI",
     "group": "Arbust/matoll",
-    "source": "Visum de flora - Exòtiques.pdf"
+    "source": "Visum de flora - Exòtiques.pdf",
+    "images": [
+      "img/species_087.jpg",
+      "img/extra_087_budleia_budleia_2.jpg",
+      "img/extra_087_budleia_budleia_3.jpg"
+    ]
   },
   {
     "id": 88,
@@ -1457,7 +1571,11 @@
     "slot": "main",
     "status": "Exòtica no invasora",
     "group": "Herbàcia terrestre",
-    "source": "Visum de flora - Exòtiques.pdf"
+    "source": "Visum de flora - Exòtiques.pdf",
+    "images": [
+      "img/species_100.jpg",
+      "img/extra_100_canem_cànem_2.jpg"
+    ]
   },
   {
     "id": 101,
@@ -1552,7 +1670,11 @@
     "slot": "main",
     "status": "Exòtica no invasora",
     "group": "Arbre planifoli",
-    "source": "Visum de flora - Exòtiques.pdf"
+    "source": "Visum de flora - Exòtiques.pdf",
+    "images": [
+      "img/species_106.jpg",
+      "img/extra_106_eucaliptus_eucaliptus_2.jpg"
+    ]
   },
   {
     "id": 107,
@@ -1568,7 +1690,8 @@
     "source": "Visum de flora - Exòtiques.pdf",
     "images": [
       "img/species_107.jpg",
-      "img/extra_107_falsaacacia_2.png"
+      "img/extra_107_falsaacacia_2.png",
+      "img/extra_107_falsaacacia_falsaacàcia_3.jpg"
     ]
   },
   {
@@ -1585,7 +1708,8 @@
     "source": "Visum de flora - Exòtiques.pdf",
     "images": [
       "img/species_108.jpg",
-      "img/extra_108_omdesiberia_2.png"
+      "img/extra_108_omdesiberia_2.png",
+      "img/extra_108_omdesiberia_omdesibèria_3.jpg"
     ]
   },
   {
@@ -1604,7 +1728,8 @@
       "img/species_109.jpg",
       "img/extra_109_arboç_fulles.jpg",
       "img/extra_109_arboç_fruits.jpg",
-      "img/extra_109_arboç_flors.jpg"
+      "img/extra_109_arboç_flors.jpg",
+      "img/extra_109_arboc_arboç_5.jpeg"
     ]
   }
 ]
