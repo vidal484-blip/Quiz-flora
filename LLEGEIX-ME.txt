@@ -1,0 +1,11 @@
+FLORA VISUAL — Actualització de 52 fotografies
+
+Aquest paquet conté només els fitxers que cal afegir o substituir al repositori existent.
+
+1. Substitueix species.json de la carpeta principal pel d'aquest paquet.
+2. Substitueix sw.js de la carpeta principal pel d'aquest paquet (actualitza la memòria cau perquè l'app carregui les noves fotos).
+3. Copia totes les fotografies de la carpeta img/ d'aquest paquet a la carpeta img/ del repositori.
+4. No esborris les fotografies que ja hi ha a img/.
+5. Fes commit dels canvis. GitHub Pages hauria de desplegar-los automàticament.
+
+No modifica index.html ni les altres funcionalitats de l'aplicació.

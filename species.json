@@ -10,7 +10,14 @@
     "slot": "top",
     "status": "Autòctona",
     "group": "No especificat",
-    "source": "Visum de flora - Autòctona COLOR.pdf"
+    "source": "Visum de flora - Autòctona COLOR.pdf",
+    "images": [
+      "img/species_001.jpg",
+      "img/extra_001_salatblanc_2.jpg",
+      "img/extra_001_salatblanc_3.jpg",
+      "img/extra_001_salatblanc_4.jpg",
+      "img/extra_001_salatblanc_5.jpg"
+    ]
   },
   {
     "id": 2,
@@ -23,7 +30,14 @@
     "slot": "bottom",
     "status": "Autòctona",
     "group": "No especificat",
-    "source": "Visum de flora - Autòctona COLOR.pdf"
+    "source": "Visum de flora - Autòctona COLOR.pdf",
+    "images": [
+      "img/species_002.jpg",
+      "img/extra_002_llisto_2.jpg",
+      "img/extra_002_llisto_3.jpg",
+      "img/extra_002_llisto_4.jpg",
+      "img/extra_002_llisto_5.jpg"
+    ]
   },
   {
     "id": 3,
@@ -40,7 +54,10 @@
     "images": [
       "img/species_003.jpg",
       "img/extra_003_boix_2.jpeg",
-      "img/extra_003_boix_boix_3.jpg"
+      "img/extra_003_boix_boix_3.jpg",
+      "img/extra_003_boix_4.jpg",
+      "img/extra_003_boix_5.jpg",
+      "img/extra_003_boix_6.jpg"
     ]
   },
   {
@@ -57,7 +74,9 @@
     "source": "Visum de flora - Autòctona COLOR.pdf",
     "images": [
       "img/species_004.jpg",
-      "img/extra_004_estepablanca_estepablanca_2.jpg"
+      "img/extra_004_estepablanca_estepablanca_2.jpg",
+      "img/extra_004_estepablanca_3.jpg",
+      "img/extra_004_estepablanca_4.jpg"
     ]
   },
   {
@@ -218,9 +237,7 @@
     "group": "No especificat",
     "source": "Visum de flora - Autòctona COLOR.pdf",
     "images": [
-      "img/species_013.jpg",
-      "img/extra_060_ullastreolivera_ullastre,olivera_2.jpg",
-      "img/extra_060_ullastreolivera_ullastre,olivera_3.jpg"
+      "img/species_013.jpg"
     ]
   },
   {
@@ -420,7 +437,10 @@
     "source": "Visum de flora - Autòctona COLOR.pdf",
     "images": [
       "img/species_024.jpg",
-      "img/extra_024_rogetaroja_rogetaroja_2.jpg"
+      "img/extra_024_rogetaroja_rogetaroja_2.jpg",
+      "img/extra_024_rogetaroja_3.jpeg",
+      "img/extra_024_rogetaroja_4.jpg",
+      "img/extra_024_rogetaroja_5.jpg"
     ]
   },
   {
@@ -447,7 +467,13 @@
     "slot": "bottom",
     "status": "Autòctona",
     "group": "No especificat",
-    "source": "Visum de flora - Autòctona COLOR.pdf"
+    "source": "Visum de flora - Autòctona COLOR.pdf",
+    "images": [
+      "img/species_026.jpg",
+      "img/extra_026_galzeran_2.jpg",
+      "img/extra_026_galzeran_3.jpg",
+      "img/extra_026_galzeran_4.jpg"
+    ]
   },
   {
     "id": 27,
@@ -460,7 +486,12 @@
     "slot": "top",
     "status": "Autòctona",
     "group": "No especificat",
-    "source": "Visum de flora - Autòctona COLOR.pdf"
+    "source": "Visum de flora - Autòctona COLOR.pdf",
+    "images": [
+      "img/species_027.jpg",
+      "img/extra_027_farigola_2.jpg",
+      "img/extra_027_farigola_3.jpg"
+    ]
   },
   {
     "id": 28,
@@ -476,7 +507,9 @@
     "source": "Visum de flora - Autòctona COLOR.pdf",
     "images": [
       "img/species_028.jpg",
-      "img/extra_028_gatosa_gatosa_2.jpeg"
+      "img/extra_028_gatosa_gatosa_2.jpeg",
+      "img/extra_028_gatosa_3.jpg",
+      "img/extra_028_gatosa_4.jpg"
     ]
   },
   {
@@ -543,7 +576,12 @@
     "slot": "bottom",
     "status": "Autòctona",
     "group": "No especificat",
-    "source": "Visum de flora - Autòctona COLOR.pdf"
+    "source": "Visum de flora - Autòctona COLOR.pdf",
+    "images": [
+      "img/species_032.jpg",
+      "img/extra_032_avet_2.jpg",
+      "img/extra_032_avet_3.jpg"
+    ]
   },
   {
     "id": 33,
@@ -556,7 +594,14 @@
     "slot": "top",
     "status": "Autòctona",
     "group": "No especificat",
-    "source": "Visum de flora - Autòctona COLOR.pdf"
+    "source": "Visum de flora - Autòctona COLOR.pdf",
+    "images": [
+      "img/species_033.jpg",
+      "img/extra_033_piblanc_2.jpg",
+      "img/extra_033_piblanc_3.jpg",
+      "img/extra_033_piblanc_4.jpg",
+      "img/extra_033_piblanc_5.jpeg"
+    ]
   },
   {
     "id": 34,
@@ -569,7 +614,12 @@
     "slot": "bottom",
     "status": "Autòctona",
     "group": "No especificat",
-    "source": "Visum de flora - Autòctona COLOR.pdf"
+    "source": "Visum de flora - Autòctona COLOR.pdf",
+    "images": [
+      "img/species_034.jpg",
+      "img/extra_034_pinegre_2.jpg",
+      "img/extra_034_pinegre_3.jpg"
+    ]
   },
   {
     "id": 35,
@@ -582,7 +632,14 @@
     "slot": "top",
     "status": "Autòctona",
     "group": "No especificat",
-    "source": "Visum de flora - Autòctona COLOR.pdf"
+    "source": "Visum de flora - Autòctona COLOR.pdf",
+    "images": [
+      "img/species_035.jpg",
+      "img/extra_035_pipinyer_2.jpg",
+      "img/extra_035_pipinyer_3.jpg",
+      "img/extra_035_pipinyer_4.jpg",
+      "img/extra_035_pipinyer_5.jpg"
+    ]
   },
   {
     "id": 36,
@@ -595,7 +652,14 @@
     "slot": "bottom",
     "status": "Autòctona",
     "group": "No especificat",
-    "source": "Visum de flora - Autòctona COLOR.pdf"
+    "source": "Visum de flora - Autòctona COLOR.pdf",
+    "images": [
+      "img/species_036.jpg",
+      "img/extra_036_piroig_2.jpg",
+      "img/extra_036_piroig_3.jpg",
+      "img/extra_036_piroig_4.jpg",
+      "img/extra_036_piroig_5.jpg"
+    ]
   },
   {
     "id": 37,
@@ -608,7 +672,12 @@
     "slot": "top",
     "status": "Autòctona",
     "group": "No especificat",
-    "source": "Visum de flora - Autòctona COLOR.pdf"
+    "source": "Visum de flora - Autòctona COLOR.pdf",
+    "images": [
+      "img/species_037.jpg",
+      "img/extra_037_pinassa_2.jpg",
+      "img/extra_037_pinassa_3.jpg"
+    ]
   },
   {
     "id": 38,
@@ -621,7 +690,11 @@
     "slot": "bottom",
     "status": "Autòctona",
     "group": "No especificat",
-    "source": "Visum de flora - Autòctona COLOR.pdf"
+    "source": "Visum de flora - Autòctona COLOR.pdf",
+    "images": [
+      "img/species_038.jpg",
+      "img/extra_038_pinastre_2.jpg"
+    ]
   },
   {
     "id": 39,
@@ -751,7 +824,13 @@
     "slot": "top",
     "status": "Autòctona",
     "group": "No especificat",
-    "source": "Visum de flora - Autòctona COLOR.pdf"
+    "source": "Visum de flora - Autòctona COLOR.pdf",
+    "images": [
+      "img/species_047.jpg",
+      "img/extra_047_brucol_2.jpg",
+      "img/extra_047_brucol_3.jpg",
+      "img/extra_047_brucol_4.jpg"
+    ]
   },
   {
     "id": 48,
@@ -764,7 +843,12 @@
     "slot": "bottom",
     "status": "Autòctona",
     "group": "No especificat",
-    "source": "Visum de flora - Autòctona COLOR.pdf"
+    "source": "Visum de flora - Autòctona COLOR.pdf",
+    "images": [
+      "img/species_048.jpg",
+      "img/extra_048_margallo_2.jpg",
+      "img/extra_048_margallo_3.jpg"
+    ]
   },
   {
     "id": 49,
@@ -968,7 +1052,9 @@
     "group": "No especificat",
     "source": "Visum de flora - Autòctona COLOR.pdf",
     "images": [
-      "img/extra_060_olivera_2.jpeg"
+      "img/extra_060_olivera_2.jpeg",
+      "img/extra_060_ullastreolivera_ullastre,olivera_2.jpg",
+      "img/extra_060_ullastreolivera_ullastre,olivera_3.jpg"
     ]
   },
   {
@@ -1445,7 +1531,8 @@
     "source": "Visum de flora - Exòtiques.pdf",
     "images": [
       "img/species_092.jpg",
-      "img/extra_92_senecidelcap_2.jpg"
+      "img/extra_92_senecidelcap_2.jpg",
+      "img/extra_092_senecidelcap_3.jpg"
     ]
   },
   {
@@ -1492,7 +1579,9 @@
     "source": "Visum de flora - Exòtiques.pdf",
     "images": [
       "img/species_095.jpg",
-      "img/extra_95_avetroig_2.png"
+      "img/extra_95_avetroig_2.png",
+      "img/extra_095_avetroig_3.jpg",
+      "img/extra_095_avetroig_4.jpg"
     ]
   },
   {
@@ -1509,7 +1598,8 @@
     "source": "Visum de flora - Exòtiques.pdf",
     "images": [
       "img/species_096.jpg",
-      "img/extra_96_piinsigne_2.jpg"
+      "img/extra_96_piinsigne_2.jpg",
+      "img/extra_096_piinsigne_3.jpg"
     ]
   },
   {
@@ -1558,7 +1648,11 @@
     "slot": "main",
     "status": "Exòtica no invasora",
     "group": "Herbàcia terrestre",
-    "source": "Visum de flora - Exòtiques.pdf"
+    "source": "Visum de flora - Exòtiques.pdf",
+    "images": [
+      "img/species_099.jpg",
+      "img/extra_099_cannabis_2.jpg"
+    ]
   },
   {
     "id": 100,
